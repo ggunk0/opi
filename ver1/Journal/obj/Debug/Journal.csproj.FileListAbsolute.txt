@@ -1,0 +1,10 @@
+E:\БГУИР\Journal\Journal\Journal\bin\Debug\Journal.exe.config
+E:\БГУИР\Journal\Journal\Journal\bin\Debug\Journal.exe
+E:\БГУИР\Journal\Journal\Journal\bin\Debug\Journal.pdb
+E:\БГУИР\Journal\Journal\Journal\obj\Debug\Journal.csprojAssemblyReference.cache
+E:\БГУИР\Journal\Journal\Journal\obj\Debug\Journal.Form1.resources
+E:\БГУИР\Journal\Journal\Journal\obj\Debug\Journal.Properties.Resources.resources
+E:\БГУИР\Journal\Journal\Journal\obj\Debug\Journal.csproj.GenerateResource.cache
+E:\БГУИР\Journal\Journal\Journal\obj\Debug\Journal.csproj.CoreCompileInputs.cache
+E:\БГУИР\Journal\Journal\Journal\obj\Debug\Journal.exe
+E:\БГУИР\Journal\Journal\Journal\obj\Debug\Journal.pdb
